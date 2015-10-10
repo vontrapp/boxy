@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = Sat 10 Oct 2015 02:01:30 AM MDT
+Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = Sat 10 Oct 2015 09:33:12 AM MDT
 
 BeginCmp
 TimeStamp = /560C6C75;
@@ -11,7 +11,7 @@ BeginCmp
 TimeStamp = /560C7414;
 Reference = C2;
 ValeurCmp = 10uF;
-IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11x5mm_RM2.5;
+IdModule  = Capacitors_ThroughHole:C_Radial_D5_L11_P2;
 EndCmp
 
 BeginCmp

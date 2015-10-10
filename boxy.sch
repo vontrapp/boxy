@@ -172,7 +172,7 @@ U 1 1 560C7414
 P 5350 3000
 F 0 "C2" H 5375 3100 50  0000 L CNN
 F 1 "10uF" H 5375 2900 50  0000 L CNN
-F 2 "Capacitors_Elko_ThroughHole:Elko_vert_11x5mm_RM2.5" H 5388 2850 30  0001 C CNN
+F 2 "Capacitors_ThroughHole:C_Radial_D5_L11_P2" H 5388 2850 30  0001 C CNN
 F 3 "" H 5350 3000 60  0000 C CNN
 	1    5350 3000
 	1    0    0    -1  
