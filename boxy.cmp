@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = Thu 01 Oct 2015 01:56:01 PM MDT
+
+BeginCmp
+TimeStamp = /560C6C75;
+Reference = C1;
+ValeurCmp = 1nF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /560C7414;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11x5mm_RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /560C70E4;
+Reference = D1;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /560C7103;
+Reference = D2;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /560C7127;
+Reference = D3;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /560C7160;
+Reference = D4;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /560C7462;
+Reference = D5;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /560CA1B3;
+Reference = P1;
+ValeurCmp = Isolated interface;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /560CF6D8;
+Reference = P2;
+ValeurCmp = CONN_01X03;
+IdModule  = Socket_Strips:Socket_Strip_Angled_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /560CEDD0;
+Reference = Q1;
+ValeurCmp = BC237;
+IdModule  = Housings_TO-92:TO-92_Inline_Narrow_Oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /560C6D76;
+Reference = R1;
+ValeurCmp = 220k;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /560C6DA7;
+Reference = R2;
+ValeurCmp = 220k;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /560C71DA;
+Reference = R3;
+ValeurCmp = 22k;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /560C7489;
+Reference = R4;
+ValeurCmp = 1k;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /560C9A6A;
+Reference = R5;
+ValeurCmp = 100;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /560CA8B0;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /560CF5D9;
+Reference = R7;
+ValeurCmp = 330;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /560C8BEC;
+Reference = U1;
+ValeurCmp = TRIAC;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = /560C3AFC;
+Reference = U2;
+ValeurCmp = OPTO-TRANSISTOR;
+IdModule  = Housings_DIP:DIP-6__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /560CBB25;
+Reference = U3;
+ValeurCmp = OPTO-TRIAC;
+IdModule  = Housings_DIP:DIP-6__300_ELL;
+EndCmp
+
+EndListe
