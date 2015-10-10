@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = Thu 01 Oct 2015 01:56:01 PM MDT
+Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = Sat 10 Oct 2015 02:01:30 AM MDT
 
 BeginCmp
 TimeStamp = /560C6C75;
@@ -18,35 +18,35 @@ BeginCmp
 TimeStamp = /560C70E4;
 Reference = D1;
 ValeurCmp = D;
-IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C7103;
 Reference = D2;
 ValeurCmp = D;
-IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C7127;
 Reference = D3;
 ValeurCmp = D;
-IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C7160;
 Reference = D4;
 ValeurCmp = D;
-IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C7462;
 Reference = D5;
 ValeurCmp = D;
-IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
@@ -57,16 +57,9 @@ IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
 EndCmp
 
 BeginCmp
-TimeStamp = /560CF6D8;
-Reference = P2;
-ValeurCmp = CONN_01X03;
-IdModule  = Socket_Strips:Socket_Strip_Angled_1x03;
-EndCmp
-
-BeginCmp
-TimeStamp = /560CEDD0;
+TimeStamp = /560DC145;
 Reference = Q1;
-ValeurCmp = BC237;
+ValeurCmp = Q_NPN_EBC;
 IdModule  = Housings_TO-92:TO-92_Inline_Narrow_Oval;
 EndCmp
 
@@ -123,7 +116,7 @@ BeginCmp
 TimeStamp = /560C8BEC;
 Reference = U1;
 ValeurCmp = TRIAC;
-IdModule  = Power_Integrations:TO-220;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
 EndCmp
 
 BeginCmp
