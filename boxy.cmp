@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = Sat 10 Oct 2015 09:33:12 AM MDT
+Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = Wed 07 Oct 2015 05:29:59 PM MDT
 
 BeginCmp
 TimeStamp = /560C6C75;
@@ -11,42 +11,42 @@ BeginCmp
 TimeStamp = /560C7414;
 Reference = C2;
 ValeurCmp = 10uF;
-IdModule  = Capacitors_ThroughHole:C_Radial_D5_L11_P2;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11x5mm_RM2.5;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C70E4;
 Reference = D1;
 ValeurCmp = D;
-IdModule  = Discret:D3;
+IdModule  = Diodes_ThroughHole:Diode_LED_3mm_round_vertical;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C7103;
 Reference = D2;
 ValeurCmp = D;
-IdModule  = Discret:D3;
+IdModule  = Diodes_ThroughHole:Diode_LED_3mm_round_vertical;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C7127;
 Reference = D3;
 ValeurCmp = D;
-IdModule  = Discret:D3;
+IdModule  = Diodes_ThroughHole:Diode_LED_3mm_round_vertical;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C7160;
 Reference = D4;
 ValeurCmp = D;
-IdModule  = Discret:D3;
+IdModule  = Diodes_ThroughHole:Diode_LED_3mm_round_vertical;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C7462;
 Reference = D5;
 ValeurCmp = D;
-IdModule  = Discret:D3;
+IdModule  = Diodes_ThroughHole:Diode_LED_3mm_round_vertical;
 EndCmp
 
 BeginCmp
@@ -67,56 +67,56 @@ BeginCmp
 TimeStamp = /560C6D76;
 Reference = R1;
 ValeurCmp = 220k;
-IdModule  = Discret:R3;
+IdModule  = Resistors_SMD:R_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C6DA7;
 Reference = R2;
 ValeurCmp = 220k;
-IdModule  = Discret:R3;
+IdModule  = Resistors_SMD:R_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C71DA;
 Reference = R3;
 ValeurCmp = 22k;
-IdModule  = Discret:R3;
+IdModule  = Resistors_SMD:R_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C7489;
 Reference = R4;
 ValeurCmp = 1k;
-IdModule  = Discret:R3;
+IdModule  = Resistors_SMD:R_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C9A6A;
 Reference = R5;
 ValeurCmp = 100;
-IdModule  = Discret:R3;
+IdModule  = Resistors_SMD:R_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /560CA8B0;
 Reference = R6;
 ValeurCmp = 10k;
-IdModule  = Discret:R3;
+IdModule  = Resistors_SMD:R_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /560CF5D9;
 Reference = R7;
 ValeurCmp = 330;
-IdModule  = Discret:R3;
+IdModule  = Resistors_SMD:R_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /560C8BEC;
 Reference = U1;
 ValeurCmp = TRIAC;
-IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
+IdModule  = Power_Integrations:TO-220;
 EndCmp
 
 BeginCmp
